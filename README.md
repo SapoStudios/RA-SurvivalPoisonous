@@ -1,3 +1,6 @@
+![image](https://github.com/SapoStudios/RA-SurvivalPoisonous/assets/153288075/a6c05868-369c-4dc6-a0a4-86f0d0fb962f)
+
+
 RA Survival Poisonous
 
 Videojuego tipo ScapeRoom, debemos coger todas las pociones para resistir el envenenamiento.
