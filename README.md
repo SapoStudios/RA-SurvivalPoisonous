@@ -11,5 +11,5 @@ Borrar Datos. Borra las pociones y los mapeados del escenario.<br>
 Salir. Cierra la aplicación.
 
 
-Descargáte la APP
+Descargáte la APP<br><br>
 ![image](https://github.com/SapoStudios/RA-SurvivalPoisonous/assets/153288075/0372bc93-f447-49df-a5ff-dfb879a6db61)
